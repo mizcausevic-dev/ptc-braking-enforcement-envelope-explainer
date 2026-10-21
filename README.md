@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/ptc-braking-enforcement-envelope-explainer/
 
+Repository: https://github.com/mizcausevic-dev/ptc-braking-enforcement-envelope-explainer
+
 ## What this is
 
 An interactive anatomy plate for PTC Braking-Enforcement Envelope. Play, scrub, or jump the five stages. The same frame always draws the same picture.
